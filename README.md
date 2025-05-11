@@ -1,4 +1,5 @@
-# DATA_MANAGEMENT
+# DATA_MANAGEMENT——Assignment—_1
+
 # World Bank GDP & Inflation Analysis (2000–2023)
 
 This project analyzes global and regional economic indicators using World Bank data, focusing on GDP per capita and inflation across countries, with a detailed spotlight on Malaysia.
