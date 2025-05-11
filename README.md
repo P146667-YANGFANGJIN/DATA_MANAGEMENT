@@ -13,6 +13,7 @@ This project analyzes global and regional economic indicators using World Bank d
 📁 output/
     └── charts/ (all PNG images)
 📄 README.md
+📄 assignment_1.ipynb
 ```
 
 ---
