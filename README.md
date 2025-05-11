@@ -1,4 +1,4 @@
-# DATA_MANAGEMENT——Assignment—_1
+# DATA_MANAGEMENT——Assignment_1
 
 # World Bank GDP & Inflation Analysis (2000–2023)
 
