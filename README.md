@@ -55,6 +55,7 @@ This repository includes:
 
 ### Chart 3 – ASEAN-10: GDP per Capita (2000–2023)
 ![Chart 3](output/charts/ASEAN-10_GDP_per_Capita_2000–2023.png)
+
  This chart illustrates the per capita income growth of ASEAN-10 countries over two decades. Singapore and Brunei remain clear leaders, while Malaysia shows steady mid-to-high income progression.
 
 ### Chart 4 – ASEAN-10: Inflation Rate (2000–2023)
