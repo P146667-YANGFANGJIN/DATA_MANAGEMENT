@@ -38,34 +38,34 @@ This repository includes:
 ##  Chart Previews
 
 ### Chart 1
-![Chart 1](output/charts/chart_1.png)
+![Chart 1](output/charts/Global_Scatter_Plot_2000-2023.png)
 
 ### Chart 2
-![Chart 2](output/charts/chart_2.png)
+![Chart 2](output/charts/GDP_per_Capita_in_2023.png)
 
 ### Chart 3
-![Chart 3](output/charts/chart_3.png)
+![Chart 3](output/charts/ASEAN-10_GDP_per_Capita_2000–2023.png)
 
 ### Chart 4
-![Chart 4](output/charts/chart_4.png)
+![Chart 4](output/charts/ASEAN-10_Inflation_Rate_2000–2023.png)
 
 ### Chart 5
-![Chart 5](output/charts/chart_5.png)
+![Chart 5](output/charts/GDP_Heatmap.png)
 
 ### Chart 6
-![Chart 6](output/charts/chart_6.png)
+![Chart 6](output/charts/Inflation_Heatmap.png)
 
 ### Chart 7
-![Chart 7](output/charts/chart_7.png)
+![Chart 7](output/charts/Malaysia_GDP_vs_Inflation.png)
 
 ### Chart 8
-![Chart 8](output/charts/chart_8.png)
+![Chart 8](output/charts/Malaysia_Year-on-Year_GDP_per_Capita_Growth_Rate.png)
 
 ### Chart 9
-![Chart 9](output/charts/chart_9.png)
+![Chart 9](output/charts/Malaysia_GDP_vs_Inflation_(Scaled_Area_Difference).png)
 
 ### Chart 10
-![Chart 10](output/charts/chart_10.png)
+![Chart 10](output/charts/Inflation_Rate_Distribution_by_Decade.png)
 
 
 
