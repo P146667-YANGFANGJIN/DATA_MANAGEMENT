@@ -113,6 +113,14 @@ Notably, Malaysia achieved positive GDP-inflation differentials in most years an
 
 ---
 
+##  Recommendations
+
+- Malaysia should continue strengthening inflation control, especially during global crises, to preserve real income growth.
+- ASEAN countries with higher inflation volatility (e.g., Myanmar, Laos) may benefit from targeted policy coordination or monetary reform.
+- Long-term economic planning should consider not just GDP growth, but also inflation-adjusted living standards to ensure sustainable development.
+
+
+---
 ##  Data Sources
 
 - [World Bank GDP per capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
