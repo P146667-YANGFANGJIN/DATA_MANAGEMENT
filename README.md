@@ -5,6 +5,16 @@
 This project analyzes global and regional economic indicators from 2000 to 2023 using World Bank data, with a focus on the relationship between GDP per capita and inflation across countries. Special emphasis is placed on ASEAN-10 comparisons and an in-depth case study of Malaysia.
 
 ---
+## Project Objectives
+
+This project aims to:
+
+- Explore the global relationship between GDP per capita and inflation using multi-year data.
+- Compare economic patterns among ASEAN-10 countries with visual indicators.
+- Conduct a focused analysis of Malaysia's macroeconomic trends in terms of growth quality and price stability.
+
+
+---
 
 ## 📁 Project Structure
 
@@ -28,11 +38,10 @@ This project analyzes global and regional economic indicators from 2000 to 2023 
 
 ##  Visualization Summary
 
-This repository includes:
-- Global scatter plots comparing GDP per capita and inflation
-- ASEAN-10 regional comparison of economic indicators
-- Heatmaps showing time-based performance
-- Detailed trend and distribution plots for Malaysia
+The notebook includes 10 main charts categorized by:
+- Global correlations
+- ASEAN-10 comparisons (line charts & heatmaps)
+- Malaysia macroeconomic trends (growth, inflation, stability)
 
 ---
 
