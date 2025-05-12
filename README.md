@@ -74,7 +74,7 @@ The notebook includes 10 main charts categorized by:
  
 ### Chart 5 – ASEAN-10 GDP per Capita Heatmap (2000–2023)
 ![Chart 5](output/charts/GDP_Heatmap.png)
- This heatmap illustrates GDP per capita growth across ASEAN-10. Darker cells indicate higher income levels. Vietnam and the Philippines show visible upward trajectories.
+ This heatmap illustrates GDP per capita growth across ASEAN-10. Darker cells indicate higher income levels. Malaysia is showing an upward trend..
 
 ### Chart 6 – ASEAN-10 Inflation Rate Heatmap (2000–2023)
 ![Chart 6](output/charts/Inflation_Heatmap.png)
