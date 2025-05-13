@@ -31,9 +31,9 @@ This project aims to:
 ##  Tools & Libraries
 
 - Python 3.10+
-- Google Colab
-- Pandas, Matplotlib, Seaborn, Plotly
-
+- Google Colab/Jupyter Notebook
+- Impala.dbapi, Pandas, Matplotlib, Seaborn, Plotly
+- Apache Hive
 ---
 
 ##  Visualization Summary
