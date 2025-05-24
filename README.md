@@ -2,6 +2,10 @@
 
 # World Bank GDP & Inflation Analysis (2000–2023)
 
+<p align="center">
+  <img src="output/charts//true.jpg" alt="Financial Skyline" width="80%">
+</p>
+
 This project analyzes global and regional economic indicators from 2000 to 2023 using World Bank data, with a focus on the relationship between GDP per capita and inflation across countries. Special emphasis is placed on ASEAN-10 comparisons and an in-depth case study of Malaysia.
 
 ---
